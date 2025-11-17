@@ -3,7 +3,6 @@
 **Aspiring Web & iOS Developer**  
 <small>Small in stature, but dangerous with code ⚡</small>
 
-![Line]()
 
 ### 🛠️ Currently Focused On
 - **Web Development**  
@@ -27,7 +26,7 @@
 
 ### 📫 Get in Touch
 - **Email**: xuantung6121@gmail.com
-- **Facebook / Zalo**: Đinh Xuân Tùng (hoặc inbox thẳng GitHub cũng được nha!)
+- **Facebook / Zalo**: [Đinh Xuân Tùng(https://www.facebook.com/tunggg.2216)] (hoặc inbox thẳng GitHub cũng được nha!)
 
 <p align="left">
   <a href="https://github.com/xtung6121">
@@ -38,8 +37,5 @@
   </a>
 </p>
 
-![Line]()
 
-<!--
-🔥 Muốn thêm streak stats, top languages, Gity trophy… cứ bảo mình gắn thêm nha!
--->
+
