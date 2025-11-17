@@ -26,7 +26,7 @@
 
 ### 📫 Get in Touch
 - **Email**: xuantung6121@gmail.com
-- **Facebook / Zalo**: [Đinh Xuân Tùng(https://www.facebook.com/tunggg.2216)] (hoặc inbox thẳng GitHub cũng được nha!)
+- **Facebook / Zalo**: [[Đinh Xuân Tùng](https://www.facebook.com/tunggg.2216)] (hoặc inbox thẳng GitHub cũng được nha!)
 
 <p align="left">
   <a href="https://github.com/xtung6121">
