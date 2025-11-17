@@ -25,8 +25,8 @@
 - Kinh nghiệm "vật lộn" với Xcode và Auto Layout 😂
 
 ### 📫 Liên hệ mình
-- Email: tung@example.com (thay bằng mail thật của bạn nha)
-- Facebook / Zalo: cứ nhắn [facebook.com/yourname] hoặc inbox GitHub luôn cũng được!
+- Email: xuantung6121@gmail.com 
+- Facebook / Zalo: cứ nhắn [[Đinh Xuân Tùng](https://www.facebook.com/tunggg.2216)] hoặc inbox GitHub luôn cũng được!
 
 ### ⚡ Fun fact
 > Mình cao có 1m6 nhưng bug thì fix được tới 1m9 🚀
